@@ -1,0 +1,15 @@
+# local-llm-eval-assist
+
+> 本地 LLM 自评辅助，用于回答「自己给自己打分会不会虚高」「评估怎么省积分」这类问题
+
+## Repository
+
+- local-llm-eval-assist: https://github.com/zhaoxinghua09-cell/local-llm-eval-assist (本地 LLM 自评辅助，用于回答「自己给自己打分会不会虚高」「评估怎么省积分」这类问题)
+
+## Ecosystem / 生态
+
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace
+- governanceos: https://github.com/zhaoxinghua09-cell/governanceos
+- skillgate: https://github.com/zhaoxinghua09-cell/skillgate
